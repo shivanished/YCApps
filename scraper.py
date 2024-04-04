@@ -23,6 +23,8 @@ def create_dataframe(link):
 
     df = collect_all_company_data(df)
 
+    df.to_csv('filename.txt', sep='\t', index=False)
+
     return df
 
 def create_company_url_list(link):

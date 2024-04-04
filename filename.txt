@@ -1,0 +1,603 @@
+Company	Explanation	Link	Company Website	Founders_Names	Founder_Emails	Company Info
+Marr Labs	"Marr Labs is making AI-voice agents that are indistinguishable from humans. Han and Dave previously created speech tech company Vlingo that powered the first Siri app and was acquired for $225M. 
+
+
+Now they are taking voice to the next level by making AI-voice agents that can handle virtually any phone-based job, from answering calls to schedule appointments to call center sales and support jobs—all at a fraction of the cost of a human agent.
+ 
+
+In the US alone, businesses handle 17 billion calls a year at an average cost of $5 per call–an $85 billion addressable market."	https://www.ycombinator.com//companies/marr-labs	marrlabs.com	['Dave Grannan', 'Han Shu']		
+sync labs	"we're building a foundational model to create, modify, and understand humans in video.
+
+we're starting by learning specific behaviors and building specialized generative computer vision models.
+
+the first api we released is a zero-shot state-of-the-art lipsync model our customers use it to animate anyone in any video to say (or sing) anything you want in any language."	https://www.ycombinator.com//companies/sync-labs	synclabs.so	['Prady Modukuru', 'Prajwal K R', 'Rudrabha Mukhopadhyay', 'Pavan Reddy']		
+Artisan AI	"At Artisan, we're on a mission to create the most advanced human-like digital workers, called Artisans, and the software operating system for startups across verticals. We're starting with sales through our Artisan Sales platform and Ava, The Sales Rep Artisan. 
+
+Our first Artisan, Ava, is a BDR who automates the entire outbound sales process and can be set up with a 10-minute conversation. Ava creates the user's ICP, prospects with her database of over 270M contacts, does lead research, crafts & sends highly bespoke email sequences, and books meetings into sales reps' calendars.
+
+We recently launched Artisan Labs, our research lab where we're pioneering the foundational technologies required to create human-like digital workers. 
+
+This is the next Industrial Revolution."	https://www.ycombinator.com//companies/artisan-ai	artisan.co	['Jaspar Carmichael-Jack', 'Rupert Dodkins']		
+ego	"We’re building the first generative ai-powered simulation engine, where non-technical creators can generate realistic characters powered by LLMs, 3D worlds, and interaction code/scripts with just prompts. The future of user-generated simulations, games, and interactive media will be powered by our engine.
+
+We used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time
+
+YC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time
+
+Demo video: https://docsend.com/view/mzf6i7kiwkkgg669
+
+AI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha"	https://www.ycombinator.com//companies/ego	ego.live	['Vishnu Hari', 'Peggy Wang']		
+Driver AI	"Driver AI is the new way to write technical documentation. It helps everyone in an organization write interactive documents to explain millions of lines of code in minutes instead of months.
+
+WHO: We partner with chip manufacturing, enterprise IT, and software product development teams.
+
+WHY: Traditionally, these teams spend millions and wait months (sometimes years) to understand their complex technology infrastructure well enough to build on top of it. 
+
+THE DRIVER DIFFERENCE: Instead, Driver AI is a tool that explains complex codebases in minutes vs. months. This enables teams to rapidly accelerate the technical discovery process and save significant resources. 
+
+HOW IT WORKS: Driver AI works by digesting a codebase, organizing it for analysis, and harnessing Large Language Models (LLMs) to generate interactive explanations for executives, product and technology leaders, and developers.
+
+""Driver AI is a paradigm shift for managing our complex software delivery pipeline."" - Executive Vice President, Global Semiconductor Company"	https://www.ycombinator.com//companies/driver-ai	driverai.com	['Adam Tilton', 'Daniel Hensley']		
+AiSDR	"AiSDR automates sales prospecting. Our software uses AI to automatically write and send sales emails, once a prospective customer engages – we then automatically correspond and book meetings with them. 
+
+AiSDR's sales emails have an average response rate of 7.1%, which is already on par with the industry response rate from emails written by humans. 
+
+We are aiming to replace over 600k SDRs, that cost US companies $48B a year."	https://www.ycombinator.com//companies/aisdr	aisdr.com	['Yuriy Zaremba, CEO', 'Oleg Zaremba']		
+Fiber AI	Fiber AI is a reimagined, AI-powered Marketo for enterprises. Customers choose us because we automatically find prospects, research them, and hyper-personalize outbound messages that get 80% open rates, which is 4x the industry standard.	https://www.ycombinator.com//companies/fiber-ai	fiber.ai	['Adi Agashe', 'Neel Mehta']		
+Cedalio	Cedalio is the efficient data layer for sustainable business, centralizing and automating data gathering for ESG reporting and tracing materials from source to product. With us, your data is transparent, verifiable, and auditable by default.	https://www.ycombinator.com//companies/cedalio	cedalio.com	['Luciana Reznik', 'Nico Magni', 'Guido Marucci Blas']		
+Movley	Movley is building Rippling for supply chain. Just like Rippling centralizes all your HR tools, we give Amazon & Shopify sellers one platform to manage their entire supply chain.	https://www.ycombinator.com//companies/movley	movley.com	['Sajag Agarwal', 'Jake Corkin', 'Rafael Petry']		
+Inventive AI	"At Inventive, our mission is to build intelligence that helps B2B sales teams win deals. 
+
+Our AI copilot assists sales teams in responding to and winning RFPs and sales questionnaires. With our cutting-edge generative AI technology, proposal managers within the sales team can understand and extract essential sections from RFP documents, obtain AI-generated responses to RFP questions, and receive intelligent suggestions on meeting compliance requirements and outshining competitors. 
+
+By leveraging Inventive, sales teams can improve their efficiency by 70+%, and craft high-quality proposals that significantly enhance their chances of securing successful deals.
+
+Built by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and engineers from Google & and Stanford. Backed by top Silicon Valley investors including YCombinator."	https://www.ycombinator.com//companies/inventive-ai	getinventive.ai	['Dhiren Bhatia', 'Vishakh Hegde', 'Gaurav Nemade']		
+Sola	"Sola is copilot for workflow automation. 
+
+We help automation-minded teams build robust robotic agents to handle tedious tasks via LLMs and computer vision, smoothly integrated into their standard workflow. 
+
+Our tooling makes it easy for companies to automate data entry/scraping in manual filing and processing flows. Go from a screen recording to a bot in any desktop or browser workflow; develop logic and watch logic self-develop in the face of new events!"	https://www.ycombinator.com//companies/sola	sola-solutions.com			
+Outset	Outset offers AI-powered user interviews to conduct qualitative research. Traditional surveys are fast but lack depth while live interviews produce high quality data but are slow and expensive. Outset uses LLMs to lead interviews and synthesize results so researchers get high quality data 100 times faster.	https://www.ycombinator.com//companies/outset	outset.ai	['Aaron Cannon', 'Michael Hess']		
+Alguna	"We are Alguna, an early-stage startup building a modern pricing, quoting, and billing platform for B2B companies.
+
+Our mission is to build the most efficient revenue management engine for B2B SaaS. 
+
+Today, most companies get by using spreadsheets and manual processes across multiple single-point solutions, which is inefficient and costs millions in lost revenue.
+
+We solve this by unifying the quote-to-revenue process and automating complex back-office operations. This enables our customers (growth-stage startups and enterprises) to flexibly close more deals faster without worrying about internal limitations and relying on finance and engineering teams."	https://www.ycombinator.com//companies/alguna	alguna.io	['Aleks Đekić', 'Jamie MacLeod']		
+HockeyStack	"HockeyStack improves sales outcomes for B2B companies by helping them record and understand every interaction their customers have with their marketing, sales reps, CSMs, and products. 
+
+We map every customer touchpoint from ad impression to closed won and to upsell using our own tracking script and native integrations to the B2B GTM tech stack. 
+
+Building this source of truth allow us to give companies previously hidden insights that generate incremental revenue, such as:
+
+- Deploy marketing budget: ""Launch this ad campaign to this audience to generate $XM in pipeline""
+- Target the right accounts with the right messaging: ""These accounts have the highest likelihood to convert, put them on this email sequence""
+- Convert more of the pipeline: “Pied Piper hasn't visited the site for 8 days; give Jim a phone call”"	https://www.ycombinator.com//companies/hockeystack	hockeystack.com	['Buğra Gündüz', 'Emir Atli', 'Arda Bulut']		
+SpecCheck	SpecCheck is an all-in-one solution that provides accurate prescription eyewear ordering and tracking, seamless billing, and streamlined communication between patients, eye doctors, and their lab partners. SpecCheck’s users work more efficiently and make fewer costly errors, increasing productivity and improving their overall workflow.	https://www.ycombinator.com//companies/speccheck	speccheckrx.com	['Joe DeMaria', 'Arnold Villatoro']		
+Pier	We’re building an API for launching credit products. We enable companies to compliantly offer credit by handling the tech stack for origination, underwriting and loan management with just a few lines of code. We have built-in compliance guardrails to ensure that our customers comply with state and federal regulations and assist with licensing requirements and license management.	https://www.ycombinator.com//companies/pier	pier-finance.com	['Jessica Zhang', 'Alex Hegevall Clarke']		
+highlight.io	"highlight.io is the open source, full-stack monitoring platform. With just a few lines of code, Highlight makes it easy to understand what's slowing down your users and swiftly address errors and regressions on your web app.  Imagine that you have a customer reporting an issue on your web app. With highlight.io, you can playback their exact interactions to reproduce the bug and get notified of any future errors that could happen.
+
+That being said, we’re just getting started! We have plans to go way deeper into your observability stack to give you all of the visibility you need. Join us on this journey:
+- Star us on GitHub (https://github.com/highlight/highlight) to keep up with releases and news.
+- Join our Discord (https://highlight.io/community) to share product feedback and thoughts."	https://www.ycombinator.com//companies/highlight-io	highlight.io	['Jay Khatri', 'Vadim Korolik']		
+Fern	"REST APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.
+
+Deliver Stripe-level SDKs and Docs to your API users. Upload your OpenAPI, or define your API in Fern's simpler format, and generate SDKs in popular programming languages. Fern handles publishing to package managers like NPM and PyPI. When you use Fern for SDKs and Docs, you get SDK code samples automatically populated in your documentation.
+
+Discover how Fern helps developer-focused companies: https://buildwithfern.com/showcase"	https://www.ycombinator.com//companies/fern	buildwithfern.com	['Danny Sheridan', 'Deep Singhvi']		
+Common Paper	"Common Paper is a contracting platform that helps startups close deals with their customers faster and with less risk.
+
+We create standard, open-source contracts for commercial transactions, including NDAs, DPAs, and sales agreements. These are analogous to the SAFE, but are between customers and vendors rather than investors and startups. The standardized format means that data within contracts is structured from inception. 
+
+We build software for managing standard contracts, accelerating sales cycles, and making the data within the contracts programmatically accessible to other business systems.
+
+Thousands of people have downloaded our standard contracts, and 63% of the contracts on our system close within 24 hours."	https://www.ycombinator.com//companies/common-paper	commonpaper.com	['Benjamin Garvey', 'Jake Stein']		
+Pylon	"Pylon is a modern alternative to Zendesk. Pylon helps B2B companies manage their customers across the different places they talk to them - shared Slack channels, Microsoft Teams, email, in-app chat, Slack communities, and more.
+
+Hundreds of fast-growing YC companies of all sizes like Mintlify, Hightouch, and Deel use Pylon to track customer conversations across slack/teams/email/in-app/community, resolve customer issues quickly, and keep customers engaged.
+
+Pylon replaces tools like Zendesk/Intercom for modern companies.
+
+Learn more: https://www.usepylon.com
+
+
+-------
+Examples of specific capabilities include:
+- Unify customer conversations across Slack, Microsoft Teams, In-App Chat, Email, and Community.
+- Triage open issues, set SLAs, prioritize questions based on customer tier or other CRM data, connect questions with engineering work in Linear/Jira/Github, and measure metrics like response time and resolution rate.
+- Broadcast product updates, upcoming events, or outages to 100s of channels at once and get live link click, reaction, and reply data."	https://www.ycombinator.com//companies/pylon-2	usepylon.com	['Marty Kausas', 'Advith Chelikani', 'Robert Eng']		
+UpTrain AI	"UpTrain provides the most advanced LLMOps platform to ship AI confidently. It provides enterprise-grade tooling to easily evaluate, experiment, monitor, and test LLM changes, all while seamlessly collaborating with your team. Being OSS, UpTrain is readily customizable and can be hosted on your secure cloud environment, satisfying your data governance needs.
+
+1. UpTrain provides high-quality scores over a variety of metrics (both LLM-based and classical NLP ones) as well as allows you to define custom ones to evaluate your full LLM pipeline comprehensively. 
+
+2. UpTrain runs root cause analysis to identify if it is a retrieval issue, if your context requires reranking, if the LLM is unable to utilize the context or if certain instructions are not being followed.
+
+3. UpTrain leverages state-of-the-art techniques for automatic prompt optimization, automatic eval generation, finding common topics among failure cases, etc., to act as your LLMOps co-pilot."	https://www.ycombinator.com//companies/uptrain-ai	uptrain.ai	['Sourabh Agrawal', 'Shikha Mohanty']		
+Vitalize Care	Vitalize Care helps health systems efficiently staff to real time patient demand and acuity. Our platform leverages predictive scheduling to proactively identify staffing gaps and automate filling shifts with the best-fit nurse. We project saving our early pilot hospitals > $2M in labor costs annually, while saving their nurse managers nearly 60 hours/month by automating manual scheduling tasks.	https://www.ycombinator.com//companies/vitalize-care	vitalizecare.co	"['Veeraj Shah', 'Sanketh Andhavarapu', ""Nikhil D'Souza""]"		
+222	222 is a full-stack social experiences platform to generate real-life experiences at curated hyperlocal venues where we can reliably predict you will like both the people & place.	https://www.ycombinator.com//companies/222	222.place	['Keyan Kazemian', 'Danial Hashemi', 'Arman Roshannai']		
+Truewind	"⛵️ Truewind (YC W23) is AI-powered bookkeeping and finance software for startups.
+
+🤖 Using GPT-3, Truewind captures the business context that only founders have, making accounting easier and more accurate. Through a combination of AI and concierge service, Truewind delivers a delightful financial back office experience, that includes:
+
++ Reliable bookkeeping with less errors
++ Detailed financial models
++ Built exclusively for startups
++ Fast, responsive expertise"	https://www.ycombinator.com//companies/truewind	truewind.ai	['Alex Lee', 'Tennison Chan']		
+Inkeep	Inkeep helps turn your docs, GitHub issues, and other content into an AI-powered search and chat copilot for your developer product. 100+ teams use Inkeep to improve developer experience, deflect support volume, and understand where users get stuck.	https://www.ycombinator.com//companies/inkeep	inkeep.com	['Nick Gomez', 'Robert Tran']		
+Propexo	Propexo lets engineers build, test, and launch CRE software integrations in days, not months. We modernize the developer experience for our customers, providing clear documentation and robust infrastructure to support the needs of property owners, property managers, & proptechs.	https://www.ycombinator.com//companies/propexo	propexo.com	['Remen Okoruwa', 'Nick Johnson', 'Ben Keller']		
+Floworks	"Floworks lets you talk with and operate every works apps with just plain english.
+
+Tools like CRM, ERP, Project Planners, Calendars etc. are mired with complex and unintuitive UI leading to more than 50% workweek getting wasted. With Floworks, you can simply talk to every work software in plain english from a single place. For example, after a sales meeting, a rep can directly post notes and schedule follow ups	 by just going to Slack and instructing Floworks in plain english- instead of painstakingly navigating through multiple applications."	https://www.ycombinator.com//companies/floworks	floworks.ai	['Sarthak Shrivastava', 'Sudipta Biswas']		
+Suger	The cloud marketplaces on AWS, Azure, and GCP have become the App Store for B2B software products. It’s growing close to 100% year-over-year since it gives software sellers access to cloud budgets and makes procurement 40% faster. The core problem is the cloud marketplace is hard to navigate and requires an upfront technical investment without knowing the expected ROI. Suger eliminates the need to reinvent the wheel with your own engineering resource or spend a fortune on consulting-based solutions.	https://www.ycombinator.com//companies/suger	suger.io	['Chengjun Yuan', 'Jon Yoo']		
+Cosine	Cosine understands your codebase better than you do. It supports 50+ coding languages, allowing developers to ask any question about their codebase, get explanations about any feature and get suggestions about how to write new code.	https://www.ycombinator.com//companies/cosine	cosine.sh	['Alistair Pullen', 'Yang Li', 'Sam Stenner']		
+Bluebirds	Bluebirds helps GTM teams build an automated outbound engine using signals. Our first signal tracks when past customers who switched jobs, and is free to use from our website.	https://www.ycombinator.com//companies/bluebirds	bluebirds.ai	['Rohan Punamia', 'Kunal Punera']		
+Scanbase	Scanbase makes it easy for medical companies to convert photos of rapid diagnostic tests into results. We do this by providing a simple API that any medical company can access.	https://www.ycombinator.com//companies/scanbase	scanbase.com	['Jeffrey Lange', 'Steve Roger']		
+Coperniq	"Coperniq is workflow software for solar & energy contractors.
+
+It cuts soft cost per installation by $3K (17% of total cost) & accelerates project completion by 45 days (30% of project timeline).
+
+We replace Salesforce, spreadsheets, pencil-&-paper, & other hacky workarounds with an industry-specific application for the underserved energy workforce. 
+
+Main benefits for our customers 
+1. Finish projects faster and cheaper: Our platform cuts 17% of soft costs, allowing contractors to deploy more projects, faster, and cheaper, with 5-star customer experience every time
+2. Turn costly (often unprofitable) service calls into a revenue engine: By integrating with hardware OEMs (Enphase, SolarEdge, etc...), Coperniq gives you real-time health checks for your install base, automates service tickets, & drives referral revenue
+
+Coperniq does all this and much more in one beautiful platform!
+
+Are you or someone you know running or thinking about starting a solar company? [Schedule a call with us :)](https://calendly.com/coperniq-sales/discovery-web-v2 )"	https://www.ycombinator.com//companies/coperniq	coperniq.io	['Abdullah Al Zandani', 'Max Kazakov']		
+JustPaid.io	"JustPaid.io is the AI financial automation invoicing and bill pay you wish you had earlier:
+
+- We are modernizing revenue collections for small and mid-size companies. We automate manual tasks and streamline workflows to unlock financial insights, invoice with AI, and accelerate the monthly close process. Are you a small or midsize business managing large amounts of monthly transactions? If you are we can help.
+
+- Within the platform, our AI-powered financial engine automates invoicing and bill pay. Collect from customers and pay bills on time.  📈
+
+- Using Stripe? Using Quickbooks, NetSuite, Bill.com or Brex? We plug right in and make things simple, performing an entire data sync free for new customers. Migrate from hard-to-use and legacy revenue software to JustPaid for your revenue and bill pay needs. 
+
+- Need help? Email us at sales@justpaid.io and schedule a demo today.
+------
+
+Our values:
+
+We are always asking ourselves, how can we make a company's team's life easier to help them scale through financial technology?
+
+- We don’t settle.
+- We are passionate.
+- We are serial entrepreneurs.
+
+We aim to make a dent in the universe"	https://www.ycombinator.com//companies/justpaid-io	justpaid.io	['Daniel Kivatinos', 'Anelya Grant', 'Vinay Datta Pinnaka']		
+Omnistrate	"Omnistrate is a cloud platform to SaaS-ify your docker image in minutes instead of years.
+
+Let’s say you have an open-source software, and you want to monetize your invention by building a multi-cloud SaaS solution. You can either spend years doing it yourself or use Omnistrate to do it in no time."	https://www.ycombinator.com//companies/omnistrate	omnistrate.com	['Kamal Gupta', 'Alok Nikhil']		
+Nango	"Customers expect your SaaS to integrate with their ever-growing stack natively.
+
+Ship any product integration fast with Nango. Leverage pre-built integrations and limitless customization."	https://www.ycombinator.com//companies/nango	nango.dev	['Robin Guldener', 'Bastien Beurier']		
+Trackstar	Trackstar is the Plaid for supply chain logistics. Our universal API provides a simple and well-documented way for companies to integrate with hundreds of warehouse management systems in minutes, not months.	https://www.ycombinator.com//companies/trackstar	trackstarhq.com	['Jeremy Schneck', 'Daniel Langer']		
+Concourse		https://www.ycombinator.com//companies/concourse	concourse.co			
+Paperplane	Paperplane updates Salesforce automatically after each sales call. With us, sales leaders no longer spend 30-50% of their week piecing together what’s going on in their pipeline and can spend that time winning more deals	https://www.ycombinator.com//companies/paperplane	paperplane.ai	['Daniel Kwak', 'Jack Hopkins', 'Ben Magolan']		
+Rollstack	"Who hasn't spent hours creating or updating slide decks and documents with the latest data? Teams spend between 5h and 12h per week updating slides and docs. And in 75% of the cases, slides are reused.
+
+• Rollstack allows teams to automatically create and update Google slides and PowerPoint presentations with the latest data from their BI tools, CRMs, and data warehouse. 
+
+• Rollstack helps teams automate their business reviews, financial reporting, and client presentations by scheduling updates, creating decks programmatically, and version control.
+
+• Rollstack also generates insights automatically from your visualizations and datasets."	https://www.ycombinator.com//companies/rollstack-2	rollstack.com	['Nabil Jallouli', 'Saad Bahir', 'Younes Jallouli']		
+Doctor Droid	"Doctor Droid is an automated diagnosis and troubleshooting assistant for engineering teams.
+
+Doctor Droid integrates with your existing monitoring stack (10+ tools supported) and assists with automated diagnosis, troubleshooting recommendations and more. 
+
+Get started
+
+To get an automated report on the state of alerting & noise in your company, try out our free report generator today -- https://drdroid.io/doctor-droid-slack-integration"	https://www.ycombinator.com//companies/doctor-droid	drdroid.io	['Siddarth Jain', 'Dipesh Mittal']		
+Syncly	We help revenue operations and customer success teams to reduce churn by automatically analyzing their email communication. Our team previously founded and sold a $200M AI technology startup.	https://www.ycombinator.com//companies/syncly	syncly.app	['Joseph Lee', 'Jongsoo Keum', 'Kwan Yoon']		
+Infisical	"Infisical is an open-source platform to manage secrets and configs across your team and infrastructure.
+
+Infisical stores your secrets and injects them back into your development workflow, CI/CD pipelines, and cloud infrastructure. It comes with secrets versioning, point-in-time recovery, audit logging, automatic secret rotation capabilities, and more."	https://www.ycombinator.com//companies/infisical	infisical.com	['Vlad Matsiiako', 'Tuan Dang', 'Maidul Islam']		
+Terrace	"Terrace is the best way to trade crypto. We're the degen platform for institutions and the institutional platform for degens. 
+Terrace is a multi-wallet, non-custodial crypto trading terminal and broker. We offer best price routing, advanced order types, synthetic pairs, token screening, and portfolio management on 12 chains. You can use Terrace for DeFi-only (no-KYC) or get access to the world's top CEX, OTC, and MM via our KYC-ed platform. Think DeBank, 1inch/Matcha, DEX Screener, and more rolled into one."	https://www.ycombinator.com//companies/terrace	terrace.fi			
+Chima	Companies struggle to customize their generative AI models by taking advantage of their existing customer and enterprise data, in real-time. Chima solves for this through a sleek, interoperable layer before the standard generative AI models are applied.	https://www.ycombinator.com//companies/chima	withchima.com	['Nikhara Nirghin', 'Kiara Nirghin']		
+Pump.co	Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped	https://www.ycombinator.com//companies/pump-co	pump.co	['Spandana Nakka']		
+Monterey AI	Monterey AI builds intelligent customer voice infrastructure for product operations teams in hyper-growth companies. Monterey helps companies understand what actions to take to improve engagement and reduce churn by setting up user feedback channels, auto-collecting, and analyzing qualitative feedback and quantitative data from multiple sources.	https://www.ycombinator.com//companies/monterey-ai	monterey.ai	['Chun Jiang', 'Ben Kramer']		
+Relate	Relate is a simple, collaborative sales CRM for startups and SMBs.	https://www.ycombinator.com//companies/relate	relate.so	['Christopher Chae', 'Sangyong Jung', 'Arthur (Hyun June) Kim']		
+Quindar	"Quindar is a web app used by satellite owners to analyze, test and operate their constellation. For example, Airbus could use Quindar to operate their satellite fleet with minimal human intervention.
+  
+We’re six former OneWeb engineers who helped build the software platform that currently operates the second largest satellite constellation in the world.
+ 
+The space industry is shifting from companies launching a handful of satellites over a decade, to launching hundreds of satellites EACH in just a few years. Our SaaS platform automates mission management and for a single engineer to operate hundreds of satellites instead of the traditional model of many engineers operating a single satellite."	https://www.ycombinator.com//companies/quindar	quindar.space	['Nate Hamet', 'Sunny Bhagavathula', 'David Lawrence', 'Zach Meza', 'Shaishav Parekh', 'Matt Regan']		
+Zoltar Labs		https://www.ycombinator.com//companies/zoltar-labs	zoltarlabs.com	['Jensen Kuo', 'James Chen']		
+Cashboard		https://www.ycombinator.com//companies/cashboard	cashboard.co	['Julian Rowlands']		
+Blee	Blee easily integrates across the content creation workflow, combining instant feedback and faster approvals with scalable review and recordkeeping. Helping companies maximize revenue by moving faster to market while minimizing risk	https://www.ycombinator.com//companies/blee	blee.com			
+Overwatch	Overwatch Data offers real-time, actionable intelligence tailored for your fraud, security, and strategic insights teams. Our platform provides a comprehensive and contextualized view of opportunities and risks, drawing on the surface, social, and deep web, thereby enabling faster, data-driven decision-making.	https://www.ycombinator.com//companies/overwatch	overwatchdata.ai	['Arjun Bisen', 'Tad Mielnicki', 'Zara Perumal']		
+Tranch	"Tranch is the modern approach for businesses to be paid upfront, faster and easier. We are the only B2B checkout to offer Pay Now and Pay Later up to 12 months for invoices across the Services sector.
+
+We enable Services (law firms, design agencies, etc), software and marketplaces to be paid quicker, upfront and offer their customers flexible payment options including Pay Now and Pay Later from 2 to 12 months.
+
+By offering a ‘Pay with Tranch’ checkout businesses can offer a fast and easy way for their end-customers to pay for invoices on their terms.
+
+Tranch is backed by leading investors including; Global Founders Capital, Soma Capital, FoundersX and Y Combinator."	https://www.ycombinator.com//companies/tranch	tranch.com			
+NuMind	NuMind is a tool for data scientists, data analysts, but also software engineers to create custom NLP models. For example, a recruiting company uses NuMind to find which job offers best match a given resume. Etienne (CEO) was head of Machine Learning at Wolfram Research, and Samuel (CTO) co-founded Make.org (8M users). NuMind originated from our own frustration when developing NLP models. Leveraging large language models similar to GPT-3, NuMind allows to complete NLP projects at least 10x faster than before. We launched a private beta August 2 and had 9 paying customers one month later.	https://www.ycombinator.com//companies/numind	numind.ai	['Etienne Bernard', 'Samuel Bernard']		
+Boostly	"Boostly is an all-in-one SMS marketing and communications hub for restaurants. For example, restaurants use Boostly to build a CRM for their in-store, online, and call-in customers, and then we use SMS marketing to automatically market to customers based on their engagement with the brand.
+
+Boostly also provides an AI-powered phone assistant which handles call-in orders without staff intervention, improving efficiency and maximizing revenue, and then automatically engages the restaurant’s customers through SMS marketing to drive additional future orders.
+
+Boostly also collects feedback on the guest experience, enabling the restaurant to resolve issues in real-time and generate reviews."	https://www.ycombinator.com//companies/boostly	boostly.com	['Shane Murphy', 'Mikey Murphy']		
+Paigo	The billing management platform for any pricing model, any business stage, and any go-to-market strategy. Plus everything is 100% fully automated.	https://www.ycombinator.com//companies/paigo	paigo.tech	['Matt Sun', 'Daniel Wasserlauf']		
+Two Dots	We're building an income and employment verification service for large residential property managers.  From there, our mission is to make real estate easy for everyone involved.	https://www.ycombinator.com//companies/two-dots	twodots.net	['Henson Orser', 'Max Ponte']		
+Ciro	"Sales is about building relationships 🤝 — but you wouldn’t know it from watching most sales teams today. The average sales rep spends 1-2 days per week researching and list-building instead of spending time with customers. 
+
+We’re building the most comprehensive index of small businesses in the world, combined with elegant software that gives salespeople superpowers. Our stodgy competitors have been around for 100 years and have not innovated in decades. Modern sales teams deserve better!
+
+Ciro is a tight-knit team of engineers, sales execs, and product managers with experience from Stanford, Google, Meta, AWS, Bain & Co, Brown, and Berkeley. Our CEO and COO have both served as VPs of Sales at high-growth SaaS startups and understand our domain deeply. We are backed by some of the best investors in the world, including Y Combinator, SV Angel, CRV, and the founders of Tegus, BuildZoom, and Flexport."	https://www.ycombinator.com//companies/ciro	ciro.io	['Ross Geiger', 'Richard Lee', 'David Winer']		
+Airtrain AI	"Airtrain AI is a no-code compute platform for Large Language Models.
+
+Proprietary AI models such as GPT-4 are very powerful but also very costly, slow, unreliable, and unsecured.
+
+As businesses look to scale their AI prototypes into production-grade products, they struggle with large AI bills, slow APIs and large failure rates.
+On the other hand, smaller language models have been proven to be able to perform on-part with large ones with fine-tuned on high-quality datasets.
+
+Airtrain AI lets AI practitioners explore alternatives to proprietary models, build up training datasets, evaluate, fine-tune, and serve a large selection of open-source LLMs."	https://www.ycombinator.com//companies/airtrain-ai	airtrain.ai	['Emmanuel Turlay']		
+Paces	"In the next 30 years, the world will transform every part of the built environment to be climate positive green infrastructure. Knowing what, where, and how to build infrastructure like solar farms is one of the great opportunities of our time.
+
+Paces is software for green infrastructure developers to identify the best places to build and manage their projects. Our software supports renewable energy, EV charging, carbon sequestration and data center customers with interconnection, permitting and siting of their projects."	https://www.ycombinator.com//companies/paces	paces.com	['James McWalter', 'Charles Bai']		
+Stream	Stream enables insurance and adjacent professionals such as lawyers, nurses, and claim adjusters to review medical documents faster and better than ever before.	https://www.ycombinator.com//companies/stream	stream.claims	['Eric Yen', 'Eilam Levitov']		
+Albiware Inc.	Albiware (Albi) is a B2B SaaS solution for the $100B+ insurance damage repair industry. Albi provides an all-in-one platform for damage repair contractors to manage all aspects of their business including: CRM, project management, field documentation, scheduling, BI, marketing automation, communication, HR management, and much more. Albi is built by contractors who felt the pain that lack of technology brought and set out on a mission to build a SaaS that all insurance damage repair contractors want. Albi helps their customers reduce claims friction between them and the insurance company by providing tools to seamlessly document the work that was performed at projects. Albi helps users sync their communication company-wide through email, text, and phone directly in the platform. Albi helps contractors get paid faster by streamlining the process of a project from first call to completion. Albi also helps their customers make better business decisions through their BI tool with customizable reporting.	https://www.ycombinator.com//companies/albiware-inc	albiware.com	['Alex Duta', 'Shamoil Soni']		
+WhiteLab Genomics	We have developed an AI platform enabling to accelerate the discovery and the design of genomic therapies such as Cell Therapies, RNA Therapies and DNA Therapies.	https://www.ycombinator.com//companies/whitelab-genomics	whitelabgx.com	['David Delbourgo', 'Julien Cottineau']		
+Reality Defender	"Reality Defender’s deepfake detection platform empowers enterprises to flag fraudulent users and content (audio, visual, documents). Our API and app provides real-time risk scoring, reporting, alerts, and forensics review.  
+
+Our team spent 20+ years at Google, Goldman Sachs, and the Intelligence Community at the intersection of data science and cybersecurity.
+ 
+Customer Use Cases:
+
+• Onboarding KYC (Ie. Anti-fraud to identify fraudulent users and materials)
+
+• Content Moderation (Ie. Social media, e-commerce, marketplaces, dating, streaming)
+
+• Disinformation Detection (Ie. News, defense, government)
+ 
+Website: www.realitydefender.com
+
+Contact: ask@realitydefender.com
+
+YC AMA: https://news.ycombinator.com/item?id=30766050"	https://www.ycombinator.com//companies/reality-defender	realitydefender.com	['Ben Colman', 'Gaurav Bharaj', 'Ali Shahriyari']		
+Remi	"Remi is the roofing marketplace that supports residential solar. We connect solar providers, and their customers, to top roofing contractors.
+
+Our platform is a comprehensive solution, that includes services such as:
+* instant nationwide quoting
+* roofing
+* removal and reinstallation of solar panels
+* structural roof work needed to support solar
+
+Our software simplifies communication, permitting, scheduling, payments, and coordination between the parties. Trusted by the nation's top solar provider, Sunrun, and its million customers."	https://www.ycombinator.com//companies/remi	remihq.com	['Doug Barnett', 'Brant Choate']		
+Onboard.io	Onboard is a SaaS which automates & streamlines the customer onboarding & implementation process. Easily create dynamic launch plans (customized per customer), which are collaborative with clients and visible to all stakeholders.  Onboard is built for onboarding by a team that spent a better part of the last decade onboarding some of the worlds largest brands.	https://www.ycombinator.com//companies/onboard-io	onboard.io	['Jeffrey D. Epstein', 'Will Stevenson']		
+Flike	Flike trains AI models on your product marketing knowledge, enabling your sales team to generate relevant&hyper-personalized emails that are aligned with your brand voice throughout the entire sales funnel (from cold outbound to upselling). And we're already partnering with some of the largest YC companies.	https://www.ycombinator.com//companies/flike	flike.app	['Yannick Müller']		
+GovDash	"Govdash is the AI platform for GovCon. Govdash AI finds relevant contracts, reads through RFPs, writes full proposals, and helps your team prep them for submission in Word.
+
+Govdash makes you more efficient, streamlines content creation, and prevents employee burnout so that you can win more contracts."	https://www.ycombinator.com//companies/govdash	govdash.com	['Sean Doherty', 'Timothy Goltser', 'Curtis Mason']		
+Cinapse	Cinapse makes it easy for a film or television crew to manage tens of thousands of digital production documents and daily workflows. We do this by providing one simple app that all crew, cast, and office staff can use on Web, iOS, and Android.	https://www.ycombinator.com//companies/cinapse	cinapse.io	['Greg Kufera', 'Herman Phillips', 'Roger Tran']		
+Impossible Metals	"Impossible mining is building underwater robotics vehicles which collect battery metals from the seabed without harming the environment. We have $500M+ in off-take LoI’s and have signed a partnership with a global offshore logistics company which holds a seabed mining exploration permit. We have also built the 1st PoC underwater robotic arm.
+
+Polymetallic nodules are rocks which are rich in critical battery metals. Specially nickel, cobalt, manganese and copper. These metals are the the most expensive part of EVs."	https://www.ycombinator.com//companies/impossible-metals	impossiblemetals.com	['Oliver Gunasekara', 'Jason Gillham', 'Renee Grogan']		
+Query Vary	"Query Vary's mission is to make AI maximally useful by providing the best QA experience for all stakeholders in the app development lifecycle.
+
+For Developers.
+We help developers debug prompts and find one that works every time. 
+
+For Product Managers.
+We make it easy for product managers to rope in experts in the development of LLM apps. For example, when you’re building a digital doctor using LLMS, you want the doctor to judge what is ‘good’ output, not the software engineer. 
+
+For CTOs.
+Rigorous testing infra takes a lot of time to build and maintain. Most companies shouldn't do it. We help companies avoid wasting dev time so they can focus on what matters most without worrying about QA. 
+
+For App end-users. 
+Our customers provide a better UX to their customers in the form of improved quality and reliability. 
+
+Book a demo:
+https://calendar.app.google/6oxEvZA2k4kK6dBa8"	https://www.ycombinator.com//companies/query-vary	queryvary.com	['Dirk Jan van Veen', 'Walter Pintor']		
+1Flow	"[1Flow](https://1flow.ai) is building a user engagement layer for all apps on mobile and web to help companies increase conversion and reduce churn at scale – starting with in-product user feedback collection. Our first product is a flexible tech platform to collect in-product user feedback, that directly feeds into product development so you can know why churn and conversion happen, and launch features that will have a direct ROI to a company’s bottom line.
+
+
+Official Website: https://1flow.ai/
+
+Interactive Demo: https://1flow.ai/demo
+
+Documentation: https://1flow.ai/docs"	https://www.ycombinator.com//companies/1flow	1flow.ai	['Kai (Jiabo) Feng']		
+Rally UXR	Rally is a User Research CRM that makes it easy for teams to do research with their users. By automating outreach, scheduling, incentives, and participant management, Rally replaces messy spreadsheets and disjointed tooling, saving teams hours each week.	https://www.ycombinator.com//companies/rally-uxr	rallyuxr.com	['Oren Friedman', 'Alec Robins']		
+Verse	The creation & curation platform for the mobile native consumer.	https://www.ycombinator.com//companies/verse	madeonverse.com	['Bobby Pinckney', 'Michelle Yin']		
+Arpari	Treasury management platform built for commercial real estate. Seamlessly consolidate portfolio finances and manage financial operations from a single dashboard.	https://www.ycombinator.com//companies/arpari	arpari.com	['Alexandra Zwiener', 'Toby Edward']		
+Ploomber	We are building a cloud platform to help data scientists and engineers develop and scale AI/ML applications. We raised a 4.5M seed round in 2022 and have thousands of active users.	https://www.ycombinator.com//companies/ploomber	ploomber.io	['Eduardo Blancas', 'Ido Michael']		
+ngrow.ai	"AI-driven push marketing tool for mobile apps, that can be integrated in hours, without any code writing.
+
+nGrow connects to behavioral data from analytical systems like Amplitude, Google Firebase, Mixpanel etc. and allows to setup auto push campaigns with an hours.
+
+It's as simple as running  Google or Facebook but in push notifications channel. 
+nGrow.ai customers usually got their up to 30% incremental Revenue lift.
+
+We got Amplitude COO and ex-Google advisors on board"	https://www.ycombinator.com//companies/ngrow-ai	ngrow.ai	['Alex Sergeev', 'Marat Zhanabekov']		
+Fogbender	"Fogbender helps B2B companies support customer teams: think Intercom meets Slack's shared channels.
+
+Today, all customer software is explicitly or implicitly designed for helping individuals, not teams. This is forcing B2B companies - who sell products to teams, not individuals - to augment their default customer support platform (Zendesk, Intercom, Front, etc) with a second, ""unofficial"", system: Slack's shared channels.
+
+This causes a number of operational and logistical difficulties for both vendors and their customers, resulting in added costs, inefficiencies, and lost opportunities.
+
+With Fogbender, B2B vendors embed a team-to-team messaging widget directly on their customer dashboard, where all users belonging to an account can - with no additional authentication - 1) see a list of currently-open issues 2) participate in conversations with their own team and the vendor, and 3) search all historical discussions."	https://www.ycombinator.com//companies/fogbender	fogbender.com	['Andrei Soroker']		
+PropelAuth	"PropelAuth provides the right level of authentication for all stages of a company. New startups can use our hosted pre-built UIs which provide the simplest possible integration. Out of the box, our customers immediately have the same auth experience as large tech companies like Slack. As those startups grow, they can use our APIs and component libraries to pull aspects of the experience into their product.
+
+More than just authentication, we will also provide useful functions tied to a ""user"" or ""organization"", like analytics, billing/subscriptions, referral programs, etc."	https://www.ycombinator.com//companies/propelauth	propelauth.com	['Andrew Israel']		
+Theneo	Next-Gen API Documentation with AI Brilliance. Generate Stripe-like API docs in just a few seconds.	https://www.ycombinator.com//companies/theneo	theneo.io	['Ana Robakidze']		
+Cinder	Cinder is a flexible intelligence and investigation platform that empowers trust and safety teams to make faster and more accurate decisions on the abusive content, fraud, and threats facing their company. By integrating relevant data sources, centralizing decision making, and offering customizable workflows, Cinder powers more effective decisioning for investigative teams across an enterprise.	https://www.ycombinator.com//companies/cinder-2	cinder.co	['Glen Wise', 'Phil Brennan']		
+Cash Flow Portal	"Cash Flow Portal is an investment management platform for real estate. 
+
+We launched 5 months ago, and we have 6-figure ARR, growing 50% month over month, with 300 syndicators and 3,000 investors. 
+
+We’ve grown quickly because I am a syndicator myself. Having raised $20MM for my own deals, I know how painful it is to manually prepare Docusigns, send wire instructions and wrangle investors. I also happen to be friends with 2,000 other syndicators just like me needing a solution for managing their investors. 
+
+I’m not just a syndicator. I spent most of my career as an engineering leader at Lyft, Twitter, and Amazon. 
+
+$20K ARR per syndicator gives us a $2B TAM. Having achieved my own financial freedom through real estate investing, our mission is to serve all real estate investors and help them achieve financial freedom."	https://www.ycombinator.com//companies/cash-flow-portal	cashflowportal.com	['Perry Zheng']		
+goodfin	We are reimagining private wealth management today for the high net worth individuals of tomorrow. Our customers are founders, investors and professionals all over the world.	https://www.ycombinator.com//companies/goodfin	goodfin.com	['Anna Joo Fee']		
+Arintra	"US hospitals and clinics are losing $125B every year due to delayed and inaccurate medical coding. Arintra is solving this problem by automating medical coding using AI and clinical NLP. Arintra converts a patient chart instantly into insurance claims with 96% accurate medical codes and zero human intervention.
+
+Arintra has processed more than 1.63 million claims this year across its 20+ provider clients that includes health systems and large physician groups. Through automation of these charts, Arintra has reduced undercoding by 11% and coding-related claim denials by 43%. Arintra is headquartered in Austin, Texas. 
+
+Arintra is bi-directionally integrated with leading EHRs including Epic, Cerner, etc. to process patient charts directly from the EHR to create a direct-to-billing claim. This direct-to-billing claim includes precise E/M levels, CPT, ICD-10, HCC, HCPCS codes with appropriate modifiers and units.
+
+Both founders have PhDs in AI, significant ML and NLP experience, 60+ patents and publications, and a combined 20+ years of experience working at B2B companies and startups in Silicon Valley."	https://www.ycombinator.com//companies/arintra	arintra.com	['Nitesh Shroff', 'Preeti Bhargava, PhD']		
+Lovage	Lovage creates automated, virtual receptionists for businesses that can handle almost any customer need over the phone, via text, or on social media. Instead of hiring someone or having to deal with interruptions while working, Lovage helps your customers by answering questions, booking appointments, and more - just like you would.	https://www.ycombinator.com//companies/lovage	getlovage.com	['Austin Petersen', 'Robert Hinckley', 'Alexander Steffen']		
+Dojah Inc	Dojah is an end-to-end AI Powered Fraud Prevention and KYC Platform. From onboarding to ongoing monitoring, we are helping businesses fight financial crime and onboard customers faster.	https://www.ycombinator.com//companies/dojah-inc	dojah.io	['Tobi Ololade', 'Ayomide Oso']		
+SubscriptionFlow	"SubscriptionFlow is an AI-based customizable revenue management platform that helps SMBs optimize subscription revenue. It monitors user activity to identify customers at risk of churning and automatically alerts the sales team.
+
+For example, eLearning/SaaS/Membership businesses require to monitor subscription usage to improve customer retention. Ecommerce/Magazine companies need to see the subscription trends to cross-sell and upsell products/services."	https://www.ycombinator.com//companies/subscriptionflow	subscriptionflow.com	['Kashif Saleem']		
+Tola	Tola is the simple tool for SMBs to pay bills and get paid. On top of that, we help companies better manage their cashflow by allowing them to buy now and pay later expensive bills in exchange for a small fee.	https://www.ycombinator.com//companies/tola	tolahq.com	['Alen Cvisic', 'Guillaume Simard']		
+Requestly	"Intercept and Modify HTTP Requests. Redirect URLs, Modify Headers and override API responses. Alternative to Charles Proxy, Fiddler, Tweak & ModHeader.
+200,000+ developers from 10,000+ companies are using Requestly.
+70% of the Fortune 500 companies have used Requestly at least once."	https://www.ycombinator.com//companies/requestly	requestly.com	['Sachin Jain', 'Sagar Soni']		
+Velt	"Our mission is to make the web more collaborative. We're not just making collaboration faster—we're crafting it to be the best.
+
+Today we’re all using online platforms more than ever before - building, researching, learning, connecting etc. And we're not doing it alone. We're doing it together with other people and machines, turning the internet into the world's biggest team.
+
+Yet, the web was built for solo voyages. We saw a shift when platforms like Figma and Google Docs brought a multiplayer approach, breaking down walls and inspiring seamless teamwork.
+
+At Velt, we're taking it further. We're on a mission to infuse the magic of collaboration into the fabric of the web—one app at a time. We aim to erase the lines between online and offline co-working, crafting an environment where distance is irrelevant, and 'flow' is the norm.
+
+Right now, more than half of work hours are spent on coordination and communication—less on creating. With Velt, we're setting out to reverse these figures, reducing time spent on logistical issues by over 90%. Imagine what we can create when we spend less time talking about work and more time doing it!
+
+We're building a better web—a web for us, for our team, for everyone. Join us, and let's accelerate the future of web together 🚀
+
+Our Products:
+
+- Velt Collaboration SDK (https://velt.dev/): JS SDK to add powerful collaboration experiences to your own product for your end-users. This helps you ship such experiences ridiculously fast, increase user growth and engagement.
+- Superflow (https://usesuperflow.com/): JS plugin to enable product, marketing and design teams to comment and collaborate directly on their websites. This helps them iterate and ship their products 10x faster.
+
+We’re a team of ex-Googlers. We've launched products like Augmented Reality in Google Search & Maps.
+
+Come build a better web with us 🚀"	https://www.ycombinator.com//companies/velt	velt.dev	['Rakesh Goyal']		
+Complete	The complete way to communicate compensation, starting with our interactive offer letters.	https://www.ycombinator.com//companies/complete	complete.so	['Rani Mavram', 'Zack Field']		
+SkyLink	"SkyLink is transforming corporate travel into a hassle-free, efficient experience. By integrating advanced route optimization and reducing the need for traditional travel agents, we're not only saving companies millions but also simplifying the travel process. 
+
+With SkyLink, employees can effortlessly book their travel, just like sending a Slack message. Trusted by leading global corporations, our platform acts as a pocket-sized travel agent, ensuring smart, cost-effective travel decisions and a smoother journey for everyone involved. 
+
+SkyLink is where simplicity meets innovation in corporate travel."	https://www.ycombinator.com//companies/skylink	tryskylink.com	['Atyab Bhatti', 'Kush Maheshwari']		
+AeonCharge	AeonCharge is building a roaming hub to connect every EV charger and electric vehicle on the road. We’re the largest aggregator in the country, with 76% market coverage and access to over 70,000 charging stations.	https://www.ycombinator.com//companies/aeoncharge	aeoncharge.com	['Dwi Sutandar', 'Lin Sun Fa']		
+Dart	Dart is a fully-featured project management tool that uses AI to assist with roadmap planning, report generation, breaking tasks into subtasks, duplicate detection, and executing on basic writing and design tasks. Teams use Dart in order to plan better and eliminate regular PM chores from their schedule, freeing up seven hours per week to focus on other work.	https://www.ycombinator.com//companies/dart	itsdart.com	['Milad Malek', 'Zack Swafford']		
+Criya	"Criya, a Y Combinator and venture backed AI startup that empowers world class industry experts build their Professional Brand in 1-click. 
+Complete with AI generated websites that demonstrates their entire experience in a comprehensive and attractive format, and scheduling capabilities, video course hosting and more, Criya is a pivotal platform for senior industry leaders to turn their expertise into a powerful all-rounded professional brand with a strong online presence."	https://www.ycombinator.com//companies/roomplays	criya.co	['Deboshree Dutta']		
+Atlas	Atlas is an all-in-one customer support tool that helps agents improve the quality of their support. We do this by bringing sessions recordings, bugs, and outbound emails together in a simple customer dashboard.	https://www.ycombinator.com//companies/atlas-2	atlas.so	"[""Jon O'Bryan"", 'Rahul Asati']"		
+Rownd	"Rownd helps companies register and retain more users through frictionless sign-in across all of their websites or apps, with a single simple code snippet.
+
+We let our customers change how and where authentication happens, killing the static login page forever.
+
+Increase your conversions by 50% within weeks!"	https://www.ycombinator.com//companies/rownd	rownd.io	['Robert Thelen', 'Matt Hamann', 'Rachel Orrino']		
+Industrial Next	We bring Tesla autonomous manufacturing to every automaker and other producers. At Tesla, we were the core autonomous factory team and we’re now building the smart cameras and robotic guidance tools that provided the main advantages at Tesla	https://www.ycombinator.com//companies/industrial-next	industrialnext.ai	['Lukas Pankau', 'Allen Pan']		
+Spinach.io	Spinach.io, backed by Y Combinator, Zoom and Atlassian, is the AI Project Manager for technology teams - a virtual, AI powered teammate that's always on time, captures accurate meeting notes, and follows up with action items and ticket suggestions. According to pre-LLM research by Gartner, 80% of project management tasks will be run by AI by 2030, Spinach is making that a reality today.	https://www.ycombinator.com//companies/spinach-io	spinach.io	['Matan Talmi', 'Yoav Grossman', 'Josh Willis']		
+Blaze	Blaze is a customer engagement platform that uses AI-powered automation to help companies and agencies efficiently grow, engage and retain web3 users.	https://www.ycombinator.com//companies/blaze	withblaze.app	['Lauren Rothwell', 'Chirag Mahapatra']		
+Nest Genomics	Nest is a lab-agnostic, comprehensive solution for organizations to launch and implement large-scale genomic programs. The platform includes the ability to triage, consent, and counsel patients for genetic testing, provide EMR-integrated clinical decision support for providers managing patients with genetic results, and manage patients’ clinical needs across the continuum of care.	https://www.ycombinator.com//companies/nest-genomics	nestgenomics.com	['Moran Snir', 'Guy Snir, COO']		
+8vdX	8vdX is an intelligent vertical fundraising software stack for early-stage startups and investors. It provides a CRM with AI-powered pipeline management, performance monitoring tools, and a collaborative data room connected to a venture marketplace. 8vdx has invested in 90+ YC startups through its demo day funds.	https://www.ycombinator.com//companies/8vdx	8vdx.com	['Ravi Chachra', 'Vijay Lavhale']		
+Wingback	Wingback provides tools and APIs for SaaS pricing and packaging. We are infrastructure that allows SaaS startups to deploy any set of features of their product using any pricing model. It enables non-technical teams to implement pricing and packaging changes and execute product-led growth campaigns without engineering involvement.	https://www.ycombinator.com//companies/wingback	wingback.com	['Torben Friehe', 'Yann Leretaille']		
+Sieve	Sieve is a new kind of specialized cloud built specifically around video / audio understanding and generation use cases. We have a set of production-ready APIs available out of the box, and tooling that makes it easy to combine various models together in your apps — and share them with your team as an intuitive AI playground.	https://www.ycombinator.com//companies/sieve	sievedata.com	['Mokshith Voodarla', 'Abhinav Ayalur']		
+Strac	Strac DLP (Data Loss Prevention) is an AI Company that eliminates data leaks from SaaS, Cloud, Endpoints  and Generative AI apps by automatically detecting and remediating the most sensitive customer data like  SSN, DL, Passport, Bank Statements, etc. across all communication channels like Office 365, Gmail, Slack, Onedrive, Google Drive, Zendesk, Salesforce, ChatGPT, Chrome, Jira, Web Applications, Mac, Endpoints, etc.	https://www.ycombinator.com//companies/strac	strac.io	['Aatish Mandelecha']		
+Agave	We build data infrastructure (APIs, financial automation) for construction, an unsexy-but-huge ($12T) industry. We help construction software companies integrate with the fragmented and old software that runs construction globally using our API. We help construction companies automate manual work in a no-code interface powered by our own API.	https://www.ycombinator.com//companies/agave	agaveapi.com	['Tom Reno', 'Pooria Azimi', 'Samantha Zhang', 'John Zucchi']		
+SilkChart	SilkChart is an AI-powered call analysis and sales coaching tool that helps sales teams improve performance and win more deals. It analyzes sales calls to identify what went well and what could be improved, based on training data from top sales coaches and hundreds of thousands of sales calls.	https://www.ycombinator.com//companies/silkchart	silkchart.com			
+Optery	"Optery is automated opt out software, and we serve individuals, families and businesses.  With Optery, you can remove yourself from hundreds of data brokers that are posting and selling your home address, phone number, email and other private information on the internet.  
+
+Optery was awarded""Editors' Choice"" by PCMag.com as the most outstanding product in its category in 2022 and 2023, and was a winner in Fast Company's Next Big Things in Tech for Security and Privacy in 2023.
+
+Optery prevents phishing and social engineering, identity theft and fraud, online stalking and harassment, doxxing, and prevents people's private information from showing up in Google search results. 
+
+Anyone can create a free account to receive a personalized Exposure Report with live screenshots summarizing where your information is being posted and sold online.  Optery then provides free tools for self-service removals, or you can upgrade to a paid plan, and Optery will remove the profiles for you.
+
+Optery for Business serves enterprises removing personal information from the internet for their employees and executives, and offers an API enabling application developers to embed data broker scanning and removal technology into their applications."	https://www.ycombinator.com//companies/optery	optery.com	['Lawrence Gentilello', 'Chen Atlas']		
+Exa	Exa is a search engine built for AIs. We enable developers to filter the internet's content with complex queries in order to bring the world's knowledge into their AI apps.	https://www.ycombinator.com//companies/exa	exa.ai	['Will Bryk, CEO']		
+Safer Management	"Safer Management sells attendance software to public school districts and colleges. Public schools receive federal funding based on their average daily attendance, and our software ensures they get the money they need.
+
+We started Safer Mgmt. 12 months ago after I dropped off my twin boys and experienced inefficiencies with the sign-in process. We are now in 75 public schools and two colleges with annual reoccurring revenue of $621,000. We have 82% margins and are profitable. At scale, we will charge $15 per student per year. 
+
+There are 70 million public school students in America which is a $1.4 billion dollar market opportunity."	https://www.ycombinator.com//companies/safer-management	safermgmt.com	['Fredrick Burns']		
+Aviator	"Aviator is a developer tool that automates merge workflows and keeps builds healthy. Engineers save up to 5 hours a week and avoid frustration of broken builds.
+
+Our users include Slack, Bosch, Lightspeed, Square, Benchling, Figma and many others. For instance, Slack went from 180 master-build failures per quarter to just 1 build failure when they started using Aviator.
+
+Our goal is to become the leading brand for developer experience."	https://www.ycombinator.com//companies/aviator	aviator.co	['Ankit Jain']		
+Medium Biosciences	We build AI models helping our customers create novel, high performing biomolecules faster. Our AI models simulate the biophysical properties of biomolecules and identify the most promising ones to be tested in the lab.	https://www.ycombinator.com//companies/medium-biosciences	medium.bio	['Adil Yusuf', 'Mohamed Hassan Kane']		
+EchoLayer (fka Codex)	With AI-powered attribution, security and engineering teams can find the best people to resolve vulnerabilities now.	https://www.ycombinator.com//companies/echolayer-fka-codex	echolayer.com	['Brandon Waselnuk', 'Karl Clement', 'Saumil Patel']		
+Mindmesh	"Mindmesh is the virtual desk that puts you in control. 
+Centralize work, notes, todos, and meetings. Jump back in an instant. Focus on what you should be doing, right now."	https://www.ycombinator.com//companies/mindmesh	mindmesh.com	['Raffaele Colella', 'Ulysse Mizrahi']		
+Plai	Plai is the AI advertising tool built for marketing teams and agencies. Thousands of advertisers are using Plai to create Facebook Ads, Google Ads, and TikTok Ads from a ChatGPT prompt. Plai automatically finds your target audience, generates your creative, and launches your ad campaigns like a pro in seconds, no experience required. Whether you need to acquire new leads for your startup, sales for your e-commerce store, or grow your brand, Plai is your super app for marketing.	https://www.ycombinator.com//companies/plai	plai.io	['Logan Welbaum']		
+ContraForce	ContraForce has developed a first of its kind hyperautomated security platform that enables automated security engineering, AI-operator workflows, and incident response velocity at scale.	https://www.ycombinator.com//companies/contraforce	contraforce.com	['Stanislav Golubchik', 'Ricky Melendez']		
+Storylane	Storylane enables marketing and sales teams to create and share interactive product demos in 10 min. Prospective buyers can self-experience the demos without talking to sales. Our no-code platform allows teams (without any engineering help) to capture, personalize, add guides and publish a demo. These Demos can be embedded on websites, email campaigns or sales followups.	https://www.ycombinator.com//companies/storylane	storylane.io	['Akash Bansal', 'Nalin Senthamil']		
+Revery AI	"We are building the TikTok for fashion — a platform for creators to showcase their works, gain traction and build their brands. 
+
+### Reverie is powered by two pieces of core technology:
+- An AI-enhanced design tool for creators to turn their design ideas into e-commerce quality product images very efficiently.
+- An AI-powered Virtual Dressing Room to create professional fashion photography directly from product images. Both fashion creators and other users can easily style outfits on different models.
+
+With our core tech, we are building an active community of fashion creators (designers, stylists, influencers, bloggers, artists, casting directors, etc..) who produce original designs and engaging content around the published pieces. The social media platform will provide a streamlined path for fashion creators to experiment with their ideas and build traction. 
+
+We want to eventually become the default choice for anyone who wants to launch their fashion label, and have the future Off-White, Balenciaga, Rick Oven, etc. originate from Reverie. Our team combines deep expertise in technology (AI Phds) and the fashion industry (Community builder). Our Virtual Dressing room is live with top retailers (such as Neiman Marcus) and has ~1M ARR. We are backed by YCombinator, TSVC, Cabra VC, and other amazing angels with retail experience and connections. Join us to reshape the fashion industry!"	https://www.ycombinator.com//companies/revery-ai	revery.ai	['Kedan Li', 'Min Jin Chong', 'Jeffrey Zhang']		
+Mach9	Mach9 is at the forefront of leveraging advanced machine learning and computer vision techniques to transform geospatial data into actionable insights for urban development and infrastructure management. Our cutting-edge technology automates the detection and analysis of key urban features, aiding in the planning and maintenance of transportation networks.	https://www.ycombinator.com//companies/mach9	mach9.ai	['Alexander Baikovitz', 'Haowen Shi', 'Joshua Spisak']		
+outloud.ai	We record conversations that customers have when they are placing orders in drive-thru restaurants, automatically analyze them, and help operators to upsell better or alert them when they are out of stock.	https://www.ycombinator.com//companies/outloud-ai	outloud.ai	['Sasha Miagkyi', 'Igor Shelvinskyi']		
+Mentum	Trusted by multi-family offices and wealth managers, Mentum simplifies the process of connecting data from any onshore and offshore bank, broker-dealer, or custodian to any system. With our platform, wealth managers can effortlessly centralize all their clients' financial information, regardless of the source or format, and access insights powered by artificial intelligence.	https://www.ycombinator.com//companies/mentum	getmentum.com	['Gustavo Trigos', 'Daniel Osvath', 'Simon Avila']		
+Zensors	Zensors will convert every camera in your building into an AI powered supersensor. The AI platform does this by connecting to your existing cameras and can watches a space to track multiple workflows around capacity management, staffing, cleaning, customer experience and business asset tracking. The AI learns activity patterns to streamline facilities management or business processes and provides real time anomaly alerts, forecasts and rich data analytics.	https://www.ycombinator.com//companies/zensors-inc	zensors.com	['Anuraag Jain']		
+OneSchema	Product and engineering teams use OneSchema to save months of development time to build a CSV importer. OneSchema improves customer activation / import completion rates by automatically correcting customer data.	https://www.ycombinator.com//companies/oneschema	oneschema.co	['Christina Gilbert', 'Andrew Luo']		
+Momo Medical	"We go to nursing homes, and we put an internet-connected bed sensor underneath all their beds. Our app gives nurses valuable insights and an overview of all their residents. We reduce fall incidents and bedsores while improving evening and night shift productivity by over 30%. 
+
+Momo Medical solves the biggest problem affecting nursing homes, staff shortages while increasing the quality of care."	https://www.ycombinator.com//companies/momo-medical	momomedical.com	['Menno Gravemaker', 'Thomas Bakker']		
+WarpBuild	"Get 30% faster, 50% cheaper CI builds in 30 seconds using WarpBuild cloud runners for Github Actions.
+Optimize your software development lifecycle through DORA, SPACE reports and AI powered insights."	https://www.ycombinator.com//companies/warpbuild	warpbuild.com	['Surya Oruganti']		
+inai	"inai provides a single integration for global payments to help companies take digital payments across the globe.  
+
+Its a single integration for a merchant that will provide connections to all payment gateways ( Stripe/ Adyen/ Braintree), wallets ( Paypal, Apple Pay, Google Pay) , BNPL providers ( Klarna / affirm / afterpay), fraud ( Sift , riskified etc). 
+
+Merchants will have a no-code dashboard to customize the checkout by region ( Show Apple pay and stripe in US along with USD pricing but show Klarna, Google Pay and Sofort in Germany with pricing in Eur for e.g)
+
+Merchants can also easily switch between providers and your data stays with you on Inai rather than with PSP like stripe making switch to Adyen or Braintree easy."	https://www.ycombinator.com//companies/inai	inai.io	['Anta Pattabiraman', 'Karthik Narayanan']		
+OneStopKitchen	OneStopKitchen (OSK) offers advanced technology and an innovative model which allows any restaurant to scale to multiple locations at zero cost. OSK offers an entire suite of AI powered advanced restaurant inventory, ops and logistics tech to scale quickly with limited risk. OSK operationalizes underperforming restaurant space and staff to run OSK kitchens which are located in prime downtowns and high walk-in areas. Think of AirBnB for restaurants. OSK is a preferred restaurant partner due to its innovative hyper scalable model. Consumers can mix & match multiple cuisines in a single order for dine in, pick up or delivery.	https://www.ycombinator.com//companies/onestopkitchen	onestopkitchen.com	['Vijayaraj Gopinath', 'Viggnesh Kandasamy']		
+DigiBuild	"Our platform fixes construction's broken supply chain. 70% of construction projects finish late or over budget; procuring and managing building materials is the number 1 reason why.
+
+Using DigiBuild, construction contractors can find, order, track and manage their materials from the supplier to the job site. We help customers save money, staff time, and improve construction project schedules.
+
+We work with the largest real estate developers, general contractors, and subcontractors in the US. We manage billions in building material volume annually in the 2nd largest market in the world."	https://www.ycombinator.com//companies/digibuild	digibuild.com	['Robert Salvador', 'Ivan Franco']		
+testRigor	testRigor is an executable specifications engine to help companies to empower their manual QA to be able to build automation 15X than QA engineers and spend 200X less time maintaining the code.	https://www.ycombinator.com//companies/testrigor	testrigor.com	['Artem Golubev', 'Enzo Biancato']		
+Govly	"🏛 Govly makes it easier to sell to the government
+
+We...
+
+🗄 Centralize government opportunities
+Govly starts out with sam.gov opportunities then allows you to ingest any other contract feed.
+
+You can create targeted searches to find what you're looking and get notified immediately when a new opportunity matches any of your saved searches.
+
+🤝 Facilitate internal and external collaboration
+You can easily track what you're working on and see what your team is working on.
+
+You can also partner with other organizations in the Govly network to securely share data back and forth and collaborate on bids.
+
+🤖 Automate repetitive tasks 
+You can automate repetitive task related to specific contracting workflows saving users an average of 10 hours per week.
+
+📊 Provide market analytics
+You can use our advanced searching alongside our analytics dashboard to identify trends and new business opportunities."	https://www.ycombinator.com//companies/govly	govly.com	['Michael Weiland', 'Nick Weiland', 'Jon Wright']		
+Repool	Repool makes it easy to launch and operate private funds, like Carta for hedge funds. We're building the modern operating system for emerging managers and democratizing access to talented retail and professional investors alike.	https://www.ycombinator.com//companies/repool	repool.com	['Kevin Fu', 'Justin Carrao']		
+Laudable	Laudable finds happy customers and their success stories hiding in your existing data - like call recordings, NPS, salesforce logs - and auto-generates case study content.	https://www.ycombinator.com//companies/laudable	laudable.com			
+Onebrief	"Virtually everything in the military requires a plan—from everyday operations to war-time missions. With a rigorous process, many stakeholders, and rudimentary software (PowerPoint!!), planning is very slow. 
+
+Onebrief is a collaborative software designed to make military planning fast. It turns every input into reusable building blocks and automatically keeps all planning artifacts in sync."	https://www.ycombinator.com//companies/onebrief	onebrief.com	['Grant Demaree', 'Rafa Pereira']		
+Keyri	"Keyri helps companies implement simple, secure anti-fraud and authentication solutions to delight users and keep bad actors off their platform. Keyri's mobile application and browser fingerprinting suite ties user identities to trusted devices, preventing fraudulent activity such as account opening, account takeovers, bot attacks, and referral/promo abuse. Keyri is able to establish an immutable device fingerprint for every device, alerting companies of any suspicious devices during sign up, log in, or subsequent authentication events.
+
+Keyri also offers a passwordless authentication suite that leverages Passkeys, WebAuthn, and QR codes to enable biometric authentication on all platforms and devices, providing a seamless user experience, strengthening multi-factor account security, and reducing reliance on other tedious and unsecure authentication methods."	https://www.ycombinator.com//companies/keyri	keyri.com	['Zain Azeem', 'Grant La Count', 'Saif Malik']		
+HyperTrader	"Unlock your trading superpowers wtih HyperTrader. As traders, we reimagined the ultimate trading experience for you. HyperTrader is fast, efficient, accurate, and secure.
+
+✔️ Streamline your workflow with fewer clicks.
+
+✔️ Speed up your trading with fast execution.
+
+✔️ Stay informed with real-time position updates.
+
+✔️ Trade safe with secure encryption."	https://www.ycombinator.com//companies/hypertrader	gethypertrader.com	['Amar Gautam', 'Kunal Kumar']		
+Maroo	Maroo is the operating system for any event business in the United States	https://www.ycombinator.com//companies/maroo	maroo.us	['Alex Nikityuk']		
+Brite	We are building a benefits marketplace for employers to purchase and compare benefits by industry and company size. We are currently a decision support tool for employees to select the best benefit package.	https://www.ycombinator.com//companies/brite	britebenefits.com	['Benjamin Hale', 'Landon Fielding', 'Jake Parkinson', 'Colton Shields']		
+Tavus	We're building a new video based experience for marketing and product teams. We make personalized video outreach scalable with AI. Record a video once, and send it to thousands instantly completely customized to them.	https://www.ycombinator.com//companies/tavus	tavus.io	['Hassaan Raza', 'Quinn Favret']		
+DailyBot	"DailyBot is a chat AI Assistant and Workflow Automation platform. It takes chat to a new level by providing automation and chat use-cases that are underserved by the current messaging platforms. It helps users get more things done within the chat to be more efficient and save time.
+
+The new generation lives in chat. Remote/hybrid teams use DailyBot to automate daily workflows like stand-ups, team check-ins, give kudos to teammates or even to create their own chat-automation for their back-office with no-code/low-code in an environment similar to Amazon Alexa. DailyBot offers numerous add-ons to make the work experience better.
+
+DailyBot provides a ChatGPT assistant and a unique AI Workflows tool. Users can build multi-step workflows that use AI to generate content, process information and run actions.
+
+DailyBot is cross platform and already available for Slack, Microsoft Teams, Google Chat and Discord.
+
+Keywords: chatops chat-ops async nocode assistant workflow automation developer"	https://www.ycombinator.com//companies/dailybot	dailybot.com	['Mauricio Morales', 'Sergio Florez']		
+Bite Ninja	Our platform enables fast food and quick service restaurant workers to take orders and payments remotely	https://www.ycombinator.com//companies/bite-ninja	biteninja.com	['William Clem']		
+Cabal	Cabal helps founders get more out of their investors and advisors. We do this by providing a private workspace for founders to send asks & updates, track contributions, and get warm intros to prospects and candidates.	https://www.ycombinator.com//companies/cabal	getcabal.com	['Brian Murray', 'Fahim Ferdous']		
+Confido	Confido is a next-generation financial automation and intelligence platform that helps fast-growing CPG brands operate and scale more efficiently.	https://www.ycombinator.com//companies/confido	confidotech.com	['Kara Holinski', 'Justin Hunter']		
+Replo	Replo helps companies build websites with less code. Our goal is to create a single platform for businesses to design, develop, and market content on the internet.	https://www.ycombinator.com//companies/replo	replo.app	['Yuxin Zhu', 'Noah Gilmore']		
+Serif Health	"At Serif Health, we are taking the complexity out of the cost of healthcare. Our mission is to make healthcare pricing and contracting more transparent, easier to understand, fairer, and ultimately more affordable for all. New price transparency regulations have made a wealth of healthcare pricing and reimbursement data publicly available for the first time, but it is still extremely hard to ingest, organize, and actually use this data to understand the cost of care. That’s where we come in. Serif Health is building healthcare price intelligence data products and APIs to power the future of more transparent healthcare.
+
+We are an early-stage, venture-backed startup with a small, collaborative team of healthcare experts, engineers, and designers. We are excited to add new team members motivated by our mission, passionate about making a difference in healthcare, and looking forward to learning and growing from the challenges we will face along the way!"	https://www.ycombinator.com//companies/serif-health	serifhealth.com	['Rafiq Ahmed', 'Matthew Robben']		
+Mindstate Design Labs	Developing the next generation of psychedelic therapeutics for mental health indications. We design novel altered states of consciousness using machine learning, human experiential data, and molecular pharmacology.	https://www.ycombinator.com//companies/mindstate-design-labs	mindstate.design	['Dillan DiNardo', 'Tom Ray']		
+hotglue	hotglue is a tool that helps developers embed user-facing native SaaS integrations into their product with minimal development work, all while allowing the developers to remain in control of the data. hotglue also features a configurable Python-powered transformation layer for you to control how your product receives your customers' data.	https://www.ycombinator.com//companies/hotglue	hotglue.com			
+Beeper	"We're building the best chat app on earth. Beeper connects to 15+ different chat networks. Unified search, advanced filtering and more. Available on Desktop, Android, iPhone and iPad.
+
+The idea is simple: messaging today is painfully fragmented. We're going to fix that.   
+
+Every time we communicate there is friction lurking under the surface. E.g. Which app did I message her on? Where's that photo gone? Why can't I join an iMessage group from my Android? Our mission is to eliminate that friction and boost the efficiency of the entire human race."	https://www.ycombinator.com//companies/beeper	beeper.com	['Eric Migicovsky', 'Brad Murray']		
+Positional	Start, grow, and scale your inbound marketing and SEO strategy with a toolset optimized for results — not vanity metrics. Our goal is to connect the workflow from end to end, from keyword research to analytics, and the actions that users take that ultimately drive revenue for a business.	https://www.ycombinator.com//companies/positional	positional.com	['Nate Matherson', 'Matthew Lenhard']		
+Epsilon3	Epsilon3 is the OS for spacecraft and complex operations. We are a growing team of engineers formerly from SpaceX, Google, and Stanford. Our team worked firsthand on over 100 launches, including training and coordinating operations for multiple astronauts who successfully traveled to space and back. We are taking everything we learned and building software to make testing and operations as efficient, error-free, and enjoyable as possible. Our first product is a web-based platform for managing and tracking test and operational procedures.	https://www.ycombinator.com//companies/epsilon3-inc	epsilon3.io	['Laura Crabtree', 'Max Mednik']		
+Slope	Accept and reconcile B2B payments seamlessly.	https://www.ycombinator.com//companies/slope	slopepay.com	['Lawrence Lin Murata', 'Alice Deng']		
+Openlayer	Track prompts and models. Test edge cases. Catch errors in production. Evaluate your AI with one-line of code.	https://www.ycombinator.com//companies/openlayer	openlayer.com	['Gabriel Bayomi Kalejaiye', 'Vikas Nair', 'Rishab Ramanathan']		
+eqtble	"At eqtble, we’re on a mission is to empower companies to make more equitable decisions around their employees. We're building a people analytics platform that enables talent and people leaders to access a rich set of analytics and insights out of their existing data.
+
+Within a short time period, we've vaulted to the top of the HR tech industry with our tech-first people analytics solution. With customers such as Etsy, Chobani, Nuro, Harrys, Checkr - eqtble is on a path to being the leader in the people analytics space."	https://www.ycombinator.com//companies/eqtble	eqtble.com	['Joseph Ifiegbu', 'Gabe Horwitz', 'Ethan Veres']		
+Arpio	Arpio is a SaaS that eliminates downtime for AWS applications by making it easy to recover from any outage in just a few minutes.	https://www.ycombinator.com//companies/arpio	arpio.io	['Doug Neumann', 'Shaw Terwilliger']		
+Navattic	Navattic helps sales and marketing teams instantly create interactive product demos.	https://www.ycombinator.com//companies/navattic	navattic.com	['Neil McLean', 'Randy Frank', 'Chris Hoyle']		
+Spline	Easily create and publish 3D for multiple platforms. Build and iterate fast with production-ready results.	https://www.ycombinator.com//companies/spline	spline.design	['Alejandro Leon']		
+Rejoy Health	Developing AI tools and LLM for Healthcare	https://www.ycombinator.com//companies/rejoy-health	rejoyhealth.com	['Rituraj Yadav', 'Ritu Ranjna']		
+Dataherald	"Dataherald enables you to embed Natural Language to SQL (“NL-to-SQL” or ""Text-to-SQL"") into your product. The NL-to-SQL API, built with an LLM, allows your users to conduct no-code data analytics, pull reports, get answers to data questions, and conduct complex data queries using just natural language."	https://www.ycombinator.com//companies/dataherald	dataherald.com	['Anuj Saigal', 'Amir Zohrenejad']		
+Soraban	"Today, Soraban's building a copilot for accounting firms. We're first automating the client data intake and service delivery process. We are looking for ambitious people to build the best piece of software for accountants.
+
+We’ve raised over 4.5m from Y Combinator, Village Global, PHX Ventures, AZ-VC, Liquid 2, and many more."	https://www.ycombinator.com//companies/soraban	soraban.com	['Enoch Ko']		
+Compose.ai	Compose AI is a free Chrome extension that helps automate your writing using AI. You know how Gmail autocompletes your emails? Compose.ai is like that but everywhere, like how Grammarly works.	https://www.ycombinator.com//companies/compose-ai	compose.ai	['Michael Shuffett', 'Wilson Mitchell']		
+Biodock	"Biodock's cloud platform accelerates microscopy analysis, automating months of microscopy analysis and infrastructure to minutes with our end-to-end AI architecture.  Scientists enjoy auto-scaling storage, GPU compute, and 30-50% more accurate analysis.
+
+We're building an amazing experience to translate microscopy images to therapeutic insights for academic and enterprise scientists."	https://www.ycombinator.com//companies/biodock	biodock.ai	['Michael Lee', 'Nurlybek Mursaliyev']		
+Aerotime	"A modern calendar that helps people prioritize their work by goal setting, time blocking, and reducing fragmentation created by randomly placed meetings and distracting Slack messages.
+
+Aerotime helps you create key goals for the week, helps break it down into tasks and meetings, and streamlines the calendar to support and align your team. This leads to people being effective and not busy."	https://www.ycombinator.com//companies/aerotime	aerotime.com	['Piyush Narwani', 'Dhruv Goel']		
+InpharmD	"Every hospital hires clinical pharmacists to answer clinical questions from doctors. 
+
+They outsource this to us because we’re more efficient."	https://www.ycombinator.com//companies/inpharmd	inpharmd.com	['Ashish Advani', 'Tulasee Rao Chintha']		
+LogisticsOS	LogisticsOS provides route optimization and fleet dispatching algorithms as services to let any last-mile company offer same-day and next-hour delivery. We are the creators of the route optimization engine that both FedEx and USPS are using on production today. We increase profit per delivery by 15% and optimize thousands of deliveries in seconds using 30X faster algorithms.	https://www.ycombinator.com//companies/logisticsos	logisticsos.com	['Yuzhe Yan', 'Tiangang Song']		
+Text Blaze	Text Blaze saves time and increases comms quality by automating repeated tasks. Users save smart templates and insert them anywhere on the web using keyboard shortcuts. Templates can include placeholders, logic, dynamic fields, integrations with other apps, and more.	https://www.ycombinator.com//companies/text-blaze	blaze.today	['Dan Barak', 'Scott Fortmann-Roe']		
+Hudu	We help IT departments collaborate, simplify their operations, and organize their information. Users can share passwords, network documentation, business processes, and other technical information in one secure, customizable, and easy interface. Instead of multiple, complex services to manage their businesses, companies can now use one, unified solution.	https://www.ycombinator.com//companies/hudu	hudu.com	['Jacob Hart', 'John Hart']		
+Fathom	Instead of trying to hurriedly take notes while also having a conversation, you simply push a button in our app whenever you hear something important, like a piece of product feedback or action item. In real-time our system records, transcribes, and creates clips from the parts of the conversation you tagged that can share with your team or use to write post-call notes.	https://www.ycombinator.com//companies/fathom	fathom.video	['Richard White']		
+Quadrant Health		https://www.ycombinator.com//companies/quadrant-health	quadrant.health			
+Alinea	Alinea is an app for new investors where we do the hard work for you. With Alinea you have a team of investment experts in your pocket.	https://www.ycombinator.com//companies/alinea	alinea-invest.com	['Eve Halimi', 'Anam Lakhani']		
+Sivo	"Sivo provides debt as a service. Our API and risk protocol allows fintechs, neobanks, and gig platforms to lend money to their users, at scale, without having to raise debt which can take up to two years. You can think of us as Stripe for Debt. 
+
+We started 6 months ago, in March signed a $100m debt capital partnership, and will be launching our API in April. We already have more than 100 companies in our customer pipeline including Uber. 
+
+We’ve been able to move so quickly because we are a team with previous exits and decades of experience in risk, debt, and enterprise software for companies including Goldman Sachs, Revolut, NASA, McKinsey and Citigroup."	https://www.ycombinator.com//companies/sivo	sivo.com	['Kate Hiscox', 'Dani Conejo Rico']		
+Prequel	Prequel makes it easy for companies to share data with their customers. It helps you export data directly to your customer's Snowflake, Redshift, BigQuery, Databricks, or other data warehouse on an ongoing basis.	https://www.ycombinator.com//companies/prequel	prequel.co			
+Avenue	"Avenue is a simple way for business teams to set up alerts from their database or data warehouse. Think Datadog / PagerDuty for operations teams.
+
+Operations teams create set-and-forget alerts on all their data, so they can be more proactive with their time (and monitor on more nuanced triggers than just what fits on their dashboard page).
+
+Avenue can improve response times to critical problems from several days to real-time by alerting directly on the data sources that customers already use."	https://www.ycombinator.com//companies/avenue	avenue.app	['Justin Bleuel', 'Jeff Barg']		
+Fountain9	"Fountain9 is a predictive inventory planning solution. We help food brands and retailers reduce food wastage and improve product availability by predicting their future inventory needs. 
+
+Food wastage is a global problem that has both financial and environmental costs. An estimated $1.3 Bn tonnes of food is wasted every year and 7 - 15% of that is because of mismanaged inventory. 
+
+We accurately predict future inventory imbalances which lead to out of stock situations or wastage, and also recommends best ways of minimising their impact. Our state of the art demand sensing and pricing engine takes into account several factors like historical sales trends, seasonality, holidays, markdown events and pricing changes to predict future inventory requirements and optimize prices. Predicted inventory demand is also aligned with supply side data to identify ideal suppliers and replenishment quantities that minimize chances of stock outs or inventory wastage."	https://www.ycombinator.com//companies/fountain9	fountain9.com	['Niki Khokale', 'Rajas Lonkar']		
+Gerald Technologies, Inc	Gerald is on a mission to eliminate stress about paying bills. We are transforming bill payments by providing consumers with an application for linking and automatically paying their household bills while offering overdraft and late fee protection for all their biller accounts. Our app tracks and pays bills so our users don’t have to. We offer banking services; direct deposits, credit building, cash advance and rewards to simplify bill payments for both billers accounts and consumers.	https://www.ycombinator.com//companies/gerald-technologies-inc	joingerald.com	['Ola Okeshola', 'Nikos Karamolegkos']		
+authzed	"We build the tools companies need to provide performant and scalable authorization for their applications.
+
+We’re founded by 3 successful entrepreneurs with expertise in enterprise software, most recently as leaders at Red Hat. Jake and Joey met on the APIs team at Google in 2010. They went on to found Quay, where Jimmy joined as their first hire. Over the past decade, they’ve changed the landscape for building and deploying software."	https://www.ycombinator.com//companies/authzed	authzed.com	['Jake Moshenko', 'Jimmy Zelinskie', 'Joseph Schorr']		
+Atomic Industries	Atomic's mission is to replicate high-skill trade knowledge of tool and die makers into AI that powers new manufacturing systems which are orders of magnitude more productive.	https://www.ycombinator.com//companies/atomic-industries	atomic.industries			
+Runway		https://www.ycombinator.com//companies/runway	runway.team	['Gabriel Savit', 'Matt Varghese', 'Isabel Barrera', 'David Filion']		
+Proper	"Proper provides software & APIs to help companies manage their payments data across providers. We connect banks, API providers, and networks in a single platform and provide automated reconciliation and accounting, so companies can maintain financial accuracy at scale.
+
+Our integrated financial operating system gives companies a unified back-office data platform across their services and providers. With Proper, companies can spend less time on low-level financial system infrastructure and more time focused on building for their end-users."	https://www.ycombinator.com//companies/proper	properfinance.io	['Kyle Maloney', 'Travis Gibson']		
+Satsuma	"Satsuma is a developer tool for building applications on top of real-time blockchain data. Our product lets developers take decoded data from multiple chains, customize it for their use cases, and access it through API endpoints.
+
+Blockchains serve as distributed databases for these products, holding their most important data. However, it’s difficult to access and query that data. We believe this friction is an enormous blocker for web3 developers and that better tooling will enable mass adoption for web3.
+
+We’re a founding team of engineers, having built data infrastructure and product as early employees at Airtable, Heap, and Y Combinator."	https://www.ycombinator.com//companies/satsuma	satsuma.xyz			
+Uiflow	At Uiflow we are building a platform that allows for developers and designers to build production applications at the speed of thought. You can imagine it as a cross between Unity and Figma	https://www.ycombinator.com//companies/uiflow	uiflow.com	['Sol Eun']		
+inBalance	We use machine learning to accurately forecast electricity prices. Our live customers, including Enel, use our software to improve revenue by millions of dollars per year.	https://www.ycombinator.com//companies/inbalance	inbalanceresearch.com	['Thomas Marge']		
+Pyroscope	Pyroscope is an open source continuous profiling platform. With just a few lines of code it will help you debug performance issues and find bottlenecks in your code.	https://www.ycombinator.com//companies/pyroscope	pyroscope.io	['Ryan Perry', 'Dmitry Filimonov']		
+Worksphere	Worksphere helps companies manage a hybrid workplace where employees work from the office and from home. We allow employees to reserve a desk, know who will be in office, and better coordinate in-person meetings. Companies can let go of unused office space and save money.	https://www.ycombinator.com//companies/worksphere	worksphere.com	['Aakhil Fardeen', 'Theresa Klaassen', 'Mark Piper']		
+Enable Us	"Enable.us is an all-in-one workspace for the B2B Sales, Marketing, and Customer facing teams to provide a personalized and interactive buying and onboarding experience to their prospective customers. Customer facing teams have everything they need in one single location to:
+
+- Capture Video/Audio Product demos, customer references, sales decks, white-papers, contracts, onboarding material, and other content 
+
+- Automatically organize & contextualize  (by industry, persona, deal stage, deal size)
+
+- Build personalized deal rooms with AI-targeted content,  simplified workflows, and 1:1 communication with the prospect and other stakeholders/influencers.
+
+Learn more about our launch here https://www.producthunt.com/posts/referenceable or sign up here  https://www.enable.us/"	https://www.ycombinator.com//companies/enable-us	enableus.com	['Jinal Jhaveri, CEO', 'Adam Pearson']		
+Hyper		https://www.ycombinator.com//companies/hyper	hyper.co			
+PingPong	"A video messaging app for remote teams in multiple time zones—it's like Slack for video.
+
+With PingPong, teams collaborate by exchanging short video, voice, and screen recording clips."	https://www.ycombinator.com//companies/pingpong	getpingpong.com	['Jeff Whitlock', 'Enaho Murphy']		
+OneShop		https://www.ycombinator.com//companies/oneshop	oneshop.com	['Albert Chuang', 'Aaron Evans']		
+SenpAI.GG	SenpAI.gg is a gaming coach for the 1.4 billion PC gamers globally. SenpAI.gg’s desktop application makes personalized recommendations in the game and provides post-game feedback to help gamers improve faster. It is the most comprehensive assistant that supports gamers before and during the game via Voice Assistant, or an overlay that uses computer vision. The company is Boston-based and founded by Olcay Yilmazcoban (MIT researcher & gamer) and Berk Ozer (engineer & gamer). We raised $3M seed funding (ACT Venture Partners) and we are in the Summer 2021 Batch of Y Combinator. https://senpai.gg/	https://www.ycombinator.com//companies/senpai-gg	senpai.gg	['Olcay Yilmazcoban', 'Berk Ozer']		
+Abbot	Abbot helps customer-facing teams work with their customers in Slack. Abbot watches activity to make sure that customers get replies quickly. Once Abbot joins a room, it summarizes conversations, tags relevant topics, and even suggests next steps. Abbot's Insights make it easy to see your team's responsiveness at a glance. Want to automate common tasks? Abbot's built-in Skills functionality (think: small bits of code we run for you) can be triggered by customer topics, on a schedule, in response to external webhooks, or directly from chat.	https://www.ycombinator.com//companies/abbot	ab.bot	['Paul Nakata', 'Phil Haack']		
