@@ -10,17 +10,10 @@ import re
 import pandas as pd
 
 
-yc_company_directory_url = "https://www.ycombinator.com/companies?batch=W24&batch=S23&batch=W23&batch=S22&batch=W22&batch=S21&batch=W21&regions=United%20States%20of%20America&tags=Artificial%20Intelligence&tags=SaaS&team_size=%5B%225%22%2C%2225%22%5D"
-# yc_company_directory = requests.get(yc_company_directory_url)
-
-def main():
-    df = create_dataframe(yc_company_directory_url)
-    print(df.head())
-
 def create_dataframe(link):
     filename = create_company_url_list(link)
 
-    df = pd.DataFrame(columns=["Company", "Explanation", "Link", "Founders_Names", "Company Info"])
+    df = pd.DataFrame(columns=["Company", "Explanation", "Link", "Company Website", "Founders_Names", "Founder_Emails", "Company Info"])
 
     companies = open(filename)
 
@@ -90,7 +83,16 @@ def collect_all_company_data(df):
                 founders_names = founders_paragraphs.find_all('h3', class_="text-lg font-bold")
                 founders_names_text = [tag.text.strip() for tag in founders_names]
                 df.at[index, 'Founders_Names'] = founders_names_text
-        
-    return df
 
-main()
+            # large_div = page.find('div', class_='flex flex-col gap-8 sm:flex-row')
+            # website_section = large_div.find('div', class_='my-8 mb-4"')
+            website = page.find('div', class_='group flex flex-row items-center px-3 leading-none text-linkColor')
+            website_url = website.find('a').get('href')
+
+            domain_regex = r'https?://(?:www\.)?([^/?]+)'
+            domain_match = re.search(domain_regex, website_url)
+            if domain_match:
+                cleaned_website_url = domain_match.group(1)
+                df.at[index, 'Company Website'] = cleaned_website_url
+
+    return df
