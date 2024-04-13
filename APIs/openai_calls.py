@@ -3,6 +3,7 @@ from openai import OpenAI
 # OPENAI_KEY = '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'
 client = OpenAI()
 
+
 completion = client.chat.completions.create(
   model="gpt-3.5-turbo",
   messages=[
